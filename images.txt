@@ -6,3 +6,8 @@ linuxserver/resilio-sync
 nginx
 xhofe/alist
 linuxserver/qbittorrent
+finetu/aquarhome
+xiaoyaliu/alist
+linuxserver/jackett
+miraclemie/nas-tools:2.9.1
+allanpk716/chinesesubfinder
