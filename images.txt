@@ -5,3 +5,4 @@ linuxserver/jellyfin
 linuxserver/resilio-sync
 nginx
 xhofe/alist
+linuxserver/qbittorrent
