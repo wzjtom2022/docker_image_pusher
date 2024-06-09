@@ -1,5 +1,7 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+portainer/portainer-ce
+chigusa/bililive-go
+hslr/sun-panel
+linuxserver/jellyfin
+linuxserver/resilio-sync
+nginx
+xhofe/alist
